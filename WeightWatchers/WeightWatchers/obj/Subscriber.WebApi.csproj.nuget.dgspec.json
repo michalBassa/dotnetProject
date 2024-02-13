@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WeightWatchers\\WeightWatchers\\Subscriber.WebApi.csproj": {}
+    "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\WeightWatchers\\Subscriber.WebApi.csproj": {}
   },
   "projects": {
-    "E:\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj": {
+    "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj",
+        "projectUniqueName": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj",
         "projectName": "Subscriber.Core",
-        "projectPath": "E:\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj",
+        "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\WeightWatchers\\Subscriber.Core\\obj\\",
+        "outputPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
-                "projectPath": "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj"
+              "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
+                "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj"
               }
             }
           }
@@ -44,6 +44,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.NETCore.App": {
               "target": "Package",
               "version": "[2.2.8, )"
@@ -83,14 +87,14 @@
         }
       }
     },
-    "E:\\WeightWatchers\\Subscriber.DAL\\Subscriber.DAL.csproj": {
+    "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.DAL\\Subscriber.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WeightWatchers\\Subscriber.DAL\\Subscriber.DAL.csproj",
+        "projectUniqueName": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.DAL\\Subscriber.DAL.csproj",
         "projectName": "Subscriber.DAL",
-        "projectPath": "E:\\WeightWatchers\\Subscriber.DAL\\Subscriber.DAL.csproj",
+        "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.DAL\\Subscriber.DAL.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\WeightWatchers\\Subscriber.DAL\\obj\\",
+        "outputPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,11 +111,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj": {
-                "projectPath": "E:\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj"
+              "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj": {
+                "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj"
               },
-              "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
-                "projectPath": "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj"
+              "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
+                "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj"
               }
             }
           }
@@ -165,14 +169,14 @@
         }
       }
     },
-    "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
+    "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
+        "projectUniqueName": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
         "projectName": "Subscriber.Data",
-        "projectPath": "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
+        "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\WeightWatchers\\Subscriber.Data\\obj\\",
+        "outputPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -250,14 +254,14 @@
         }
       }
     },
-    "E:\\WeightWatchers\\Subscriber.Services\\Subscriber.Services.csproj": {
+    "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Services\\Subscriber.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WeightWatchers\\Subscriber.Services\\Subscriber.Services.csproj",
+        "projectUniqueName": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Services\\Subscriber.Services.csproj",
         "projectName": "Subscriber.Services",
-        "projectPath": "E:\\WeightWatchers\\Subscriber.Services\\Subscriber.Services.csproj",
+        "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Services\\Subscriber.Services.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\WeightWatchers\\Subscriber.Services\\obj\\",
+        "outputPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -274,14 +278,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj": {
-                "projectPath": "E:\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj"
+              "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj": {
+                "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj"
               },
-              "E:\\WeightWatchers\\Subscriber.DAL\\Subscriber.DAL.csproj": {
-                "projectPath": "E:\\WeightWatchers\\Subscriber.DAL\\Subscriber.DAL.csproj"
+              "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.DAL\\Subscriber.DAL.csproj": {
+                "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.DAL\\Subscriber.DAL.csproj"
               },
-              "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
-                "projectPath": "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj"
+              "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
+                "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj"
               }
             }
           }
@@ -299,6 +303,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
             }
           },
           "imports": [
@@ -335,14 +343,14 @@
         }
       }
     },
-    "E:\\WeightWatchers\\WeightWatchers\\Subscriber.WebApi.csproj": {
+    "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\WeightWatchers\\Subscriber.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WeightWatchers\\WeightWatchers\\Subscriber.WebApi.csproj",
+        "projectUniqueName": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\WeightWatchers\\Subscriber.WebApi.csproj",
         "projectName": "Subscriber.WebApi",
-        "projectPath": "E:\\WeightWatchers\\WeightWatchers\\Subscriber.WebApi.csproj",
+        "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\WeightWatchers\\Subscriber.WebApi.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\WeightWatchers\\WeightWatchers\\obj\\",
+        "outputPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\WeightWatchers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -359,14 +367,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj": {
-                "projectPath": "E:\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj"
+              "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj": {
+                "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Core\\Subscriber.Core.csproj"
               },
-              "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
-                "projectPath": "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj"
+              "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
+                "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj"
               },
-              "E:\\WeightWatchers\\Subscriber.Services\\Subscriber.Services.csproj": {
-                "projectPath": "E:\\WeightWatchers\\Subscriber.Services\\Subscriber.Services.csproj"
+              "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Services\\Subscriber.Services.csproj": {
+                "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Services\\Subscriber.Services.csproj"
               }
             }
           }
@@ -384,6 +392,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.26, )"
             },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
@@ -426,6 +438,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.3.1, )"
             }
           },
           "imports": [

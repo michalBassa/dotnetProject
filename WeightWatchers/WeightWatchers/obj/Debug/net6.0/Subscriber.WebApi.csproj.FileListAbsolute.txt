@@ -218,3 +218,17 @@ E:\WeightWatchers\WeightWatchers\obj\Debug\net6.0\staticwebassets\msbuild.build.
 E:\WeightWatchers\WeightWatchers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Subscriber.WebApi.props
 E:\WeightWatchers\WeightWatchers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Subscriber.WebApi.props
 E:\WeightWatchers\WeightWatchers\obj\Debug\net6.0\staticwebassets.pack.json
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\Subscriber.WebApi.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\refint\Subscriber.WebApi.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\Subscriber.WebApi.pdb
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\Subscriber.WebApi.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\Subscriber.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\Subscriber.WebApi.AssemblyInfoInputs.cache
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\Subscriber.WebApi.AssemblyInfo.cs
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\Subscriber.WebApi.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\Subscriber.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\Subscriber.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\Subscriber.WebApi.sourcelink.json
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\Subscriber.WebApi.dll
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\refint\Subscriber.WebApi.dll
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\WeightWatchers\obj\Debug\net6.0\Subscriber.WebApi.pdb

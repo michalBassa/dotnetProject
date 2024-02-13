@@ -44,6 +44,7 @@ namespace Subscriber.DAL
                 };
                 _weightWatchersContext.cardsDb.Add(defaultCard);
                 await _weightWatchersContext.SaveChangesAsync();
+                response.Response = true;
                 response.Succssed = true;
                 response.Massage = " added successfuly";
 

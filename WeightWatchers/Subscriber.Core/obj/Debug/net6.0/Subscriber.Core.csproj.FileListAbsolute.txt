@@ -28,3 +28,34 @@ E:\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.dll
 E:\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\refint\Subscriber.Core.dll
 E:\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.pdb
 E:\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\ref\Subscriber.Core.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.deps.json
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.pdb
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\bin\Debug\net6.0\Subscriber.Data.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\bin\Debug\net6.0\Subscriber.Data.pdb
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfo.cs
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CopyComplete
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\refint\Subscriber.Core.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.pdb
+Y:\Groups\Group_2\בסה  מיכל\dotnet\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\ref\Subscriber.Core.dll
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.deps.json
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.dll
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.pdb
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\bin\Debug\net6.0\Subscriber.Data.dll
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\bin\Debug\net6.0\Subscriber.Data.pdb
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfoInputs.cache
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfo.cs
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.sourcelink.json
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CopyComplete
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.dll
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\refint\Subscriber.Core.dll
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.pdb
+D:\‏‏תיקיה חדשה\‏‏תיקיה חדשה\dotnetProject\WeightWatchers\Subscriber.Core\obj\Debug\net6.0\ref\Subscriber.Core.dll

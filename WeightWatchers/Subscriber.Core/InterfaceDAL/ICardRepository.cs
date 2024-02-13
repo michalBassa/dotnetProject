@@ -10,7 +10,9 @@ namespace Subscriber.Core.InterfaceDAL
 {
     public interface ICardRepository
     {
-        Task<BaseResponseGeneral<Card>> Login(string password, string email);
+        // Task<BaseResponseGeneral<Card>> Login(string password, string email);
+        Task<BaseResponseGeneral<LoginResponse>> Login(string password, string email);
+
         Task<BaseResponseGeneral<SubscriptionDetailsResponse>> GetSubscriptionDetails(int id);
 
     }

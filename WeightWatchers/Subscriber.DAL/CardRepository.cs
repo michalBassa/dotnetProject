@@ -23,22 +23,47 @@ namespace Subscriber.DAL
             
         }
 
-        public async Task<BaseResponseGeneral<Card>> Login(string password, string email)
+        //public async Task<BaseResponseGeneral<Card>> Login(string password, string email)
+        //{
+        //    try
+        //    {
+        //        Subscribers subscriber = _weightWatchersContext.SubscribersDb.Where(s => s.Password == password && s.Email == email).FirstOrDefault();
+        //        BaseResponseGeneral<Card> response = new BaseResponseGeneral<Card>();
+        //        if (subscriber != null)
+        //        {
+        //            response.Response = _weightWatchersContext.cardsDb.Where(c => c.Id == subscriber.Id).First();
+        //            response.Succssed = true;
+        //            response.Massage = "Succssed";
+        //            return response;
+        //        }
+        //        response.Succssed = false;
+        //        response.Massage = "email and password didnot good";
+        //        response.Response = null;
+        //        return response;
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        throw new MyException(401, "Error code", ex.Message);
+        //    }
+        //}
+        public async Task<BaseResponseGeneral<LoginResponse>> Login(string password, string email)
         {
             try
             {
                 Subscribers subscriber = _weightWatchersContext.SubscribersDb.Where(s => s.Password == password && s.Email == email).FirstOrDefault();
-                BaseResponseGeneral<Card> response = new BaseResponseGeneral<Card>();
+                BaseResponseGeneral<LoginResponse> response = new BaseResponseGeneral<LoginResponse>();
+                response.Response = new LoginResponse();
                 if (subscriber != null)
                 {
-                    response.Response = _weightWatchersContext.cardsDb.Where(c => c.Id == subscriber.Id).First();
+                    
+                    response.Response.Id = _weightWatchersContext.cardsDb.Where(c => c.SubscriberId == subscriber.Id).First().Id;
                     response.Succssed = true;
                     response.Massage = "Succssed";
                     return response;
                 }
                 response.Succssed = false;
                 response.Massage = "email and password didnot good";
-                response.Response = null;
+                response.Response.Id = -1;
                 return response;
             }
             catch (Exception ex)
@@ -46,6 +71,7 @@ namespace Subscriber.DAL
                 throw new MyException(401, "Error code", ex.Message);
             }
         }
+
         public async Task<BaseResponseGeneral<SubscriptionDetailsResponse>> GetSubscriptionDetails(int id)
         {
 

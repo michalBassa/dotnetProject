@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3BxdrBDFBHmNtmzJXUbpT6njq1kLJ7B7lHWaKQyk6H2KjqjXmnWjLEc2W+ncUgGNYHYjlz2jxwkN2c9DQEuDBQ==",
+  "dgSpecHash": "2yvO990b1YodBNnEWFkLwcX83E0yYvRZ0sxBPZNn5SowY5D0HNRUPj1+wtG4uIPIP1kzFeU56VSpjvRxDdAcvQ==",
   "success": true,
-  "projectFilePath": "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
+  "projectFilePath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

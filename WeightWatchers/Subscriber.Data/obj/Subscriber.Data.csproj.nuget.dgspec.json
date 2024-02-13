@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {}
+    "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {}
   },
   "projects": {
-    "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
+    "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
+        "projectUniqueName": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
         "projectName": "Subscriber.Data",
-        "projectPath": "E:\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
+        "projectPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\WeightWatchers\\Subscriber.Data\\obj\\",
+        "outputPath": "D:\\‏‏תיקיה חדשה\\‏‏תיקיה חדשה\\dotnetProject\\WeightWatchers\\Subscriber.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

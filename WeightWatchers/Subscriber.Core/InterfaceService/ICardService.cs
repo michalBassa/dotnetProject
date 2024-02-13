@@ -10,7 +10,8 @@ namespace Subscriber.Core.InterfaceService
 {
     public interface ICardService
     {
-        Task<BaseResponseGeneral<Card>> Login(string password, string email);
+       // Task<BaseResponseGeneral<Card>> Login(string password, string email);
+        Task<BaseResponseGeneral<LoginResponse>> Login(string password, string email);
         Task<BaseResponseGeneral<SubscriptionDetailsResponse>> GetSubscriptionDetails(int id);
 
     }
